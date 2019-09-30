@@ -26,8 +26,8 @@
     "react",
     "prettier"
   ],
-  "author": "Cibi Aananth",
-  "license": "ISC",
+  "author": "cibiaananth@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/CibiAananth/eslint-config-react-airbnb-prettier/issues"
   },

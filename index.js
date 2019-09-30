@@ -18,7 +18,6 @@ module.exports = {
   },
   rules: {
     "prettier/prettier": "error",
-    "import/no-cycle": 0,
     "no-console": 0,
     "max-len": 0,
     "no-nested-ternary": 0,
