@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-react-airbnb-prettier",
+  "version": "1.0.0",
+  "description": "eslint configuration and rules that extends airbnb react style guide and prettier for code formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "babel-eslint": ">= 8",
+    "eslint": ">= 4",
+    "eslint-config-airbnb": ">= 17",
+    "eslint-config-prettier": ">= 17",
+    "eslint-plugin-prettier": ">= 3",
+    "eslint-plugin-react-hooks": ">= 1.6.0",
+    "prettier": ">= 1.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CibiAananth/eslint-config-react-airbnb-prettier.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "airbnb",
+    "react",
+    "prettier"
+  ],
+  "author": "Cibi Aananth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CibiAananth/eslint-config-react-airbnb-prettier/issues"
+  },
+  "homepage": "https://github.com/CibiAananth/eslint-config-react-airbnb-prettier#readme"
+}
