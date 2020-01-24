@@ -18,6 +18,8 @@ module.exports = {
   },
   rules: {
     "prettier/prettier": "error",
+    "import/no-cycle": 0,
+    "react/no-array-index-key": 0,
     "no-console": 0,
     "max-len": 0,
     "no-nested-ternary": 0,
@@ -27,9 +29,10 @@ module.exports = {
         extensions: [".js", ".jsx"]
       }
     ],
-    "react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "warn", // Checks effect dependencies
+    "react-hooks/rules-of-hooks": 1,
+    "react-hooks/exhaustive-deps": 1, // Checks effect dependencies
     "react/forbid-prop-types": 0,
+    "react/jsx-props-no-spreading": 0,
     "react/destructuring-assignment": [
       1,
       "always",

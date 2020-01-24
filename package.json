@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react-prettier-airbnb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint configuration and rules that extends airbnb react style guide and prettier for code formatting",
   "main": "index.js",
   "scripts": {
